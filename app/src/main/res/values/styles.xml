@@ -1,4 +1,12 @@
-<resources><style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-<item name="colorPrimary">#9B4DFF</item><item name="colorPrimaryVariant">#6C28D9</item><item name="colorSecondary">#E44DFF</item>
-<item name="android:statusBarColor">#070916</item><item name="android:navigationBarColor">#070916</item><item name="android:fontFamily">sans</item>
-</style></resources>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6558F5</item>
+        <item name="colorPrimaryVariant">#4034B8</item>
+        <item name="colorSecondary">#35D6C5</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#070916</item>
+        <item name="android:navigationBarColor">#070916</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
